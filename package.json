@@ -1,0 +1,22 @@
+{
+  "name": "bank_acount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avrhahm-lider/bank_acount.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "modules",
+  "bugs": {
+    "url": "https://github.com/avrhahm-lider/bank_acount/issues"
+  },
+  "homepage": "https://github.com/avrhahm-lider/bank_acount#readme"
+}
